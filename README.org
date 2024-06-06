@@ -1,0 +1,3 @@
+.gitignore templates for xml tools
+
+based on https://github.com/github/gitignore
